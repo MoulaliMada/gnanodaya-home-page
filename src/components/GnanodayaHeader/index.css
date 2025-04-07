@@ -1,0 +1,43 @@
+.header_logo{
+    width: 250px;
+}
+.header_container{
+    padding: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.header_navlinks_ul{
+    list-style-type: none;
+    display: flex;
+}
+.header_navlink{
+    font-size: 17px;
+    margin-right: 35px;
+    color: gray;
+}
+.header_enroll_btn{
+    background-color: transparent;
+    padding: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-color: rgb(96, 96, 231);
+    border-radius: 8px;
+    color: rgb(96, 96, 231);
+    margin-right: 40px;
+    margin-left:20px;
+    font-weight: bold;
+    
+}
+.free_demo_btn{
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:  rgb(96, 96, 231);
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
